@@ -100,9 +100,14 @@ The original model with the previous steps resulted in a accuracy of 0.5324, but
 
 - We did increase our model performance, but couldn't reach the 75% treshold:
 
-    |Optimized model Attempt 1 |![Attempt 1 results](/Resources/nnResults.png)  |
-    |Optimized model Attempt 2 |![Attempt 1 results](/Resources/nn2Results.png) |
-    |Optimized model Attempt 3 |![Attempt 1 results](/Resources/nn3Results.png) |
+    **Optimized model Attempt 1** 
+    ![Attempt 1 results](/Resources/nnResults.png)
+
+    **Optimized model Attempt 2**
+    ![Attempt 1 results](/Resources/nn2Results.png)
+
+    **Optimized model Attempt 3***
+    ![Attempt 1 results](/Resources/nn3Results.png)
 
 
 ## Summary
